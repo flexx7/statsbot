@@ -90,7 +90,7 @@ DC_BOT_CLIENT_ID=<your application client id>
 DC_BOT_CLIENT_SECRET=<your application client secret>
 DC_BOT_PERMISSIONS=274878131264
 ```
-
+asdf
 ## :rocket: How to run the bot
 
 ```sh
